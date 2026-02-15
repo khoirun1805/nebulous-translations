@@ -822,8 +822,8 @@
     <string name="x3_Clan_XP_7_days">3x XP Klan 7 Hari</string>
     <string name="x3_Clan_XP_1_Day">3x XP Klan 1 Hari</string>
     <string name="x2_Clan_XP_1_Day">2x XP Klan 1 Hari</string>
-    <string name="Pets">Hewan Peliharaan</string>
-    <string name="Pet">Peliharaan</string>
+    <string name="Pets">Pet</string>
+    <string name="Pet">Pet</string>
     <string name="You_can_purchase_this_pet_for">Anda bisa membeli Peliharaan ini</string>
     <string name="gift_to_friend">Hadiah Ke Teman</string>
     <string name="gift_purchase_warning">Anda tidak akan menerima pembelian ini karena Anda telah memilih untuk hadiah pembelian ini kepada seseorang teman.</string>
@@ -846,9 +846,9 @@
     <string name="error_1">Hanya Pemimpin Atau Wakil Pemimpin Yang Bisa Mengirim Surat Klan.</string>
     <string name="Hat">Topi</string>
     <string name="Hats">Topi</string>
-    <string name="Pet_Uploads">Unggah Peliharaan</string>
+    <string name="Pet_Uploads">Unggahan Pet</string>
     <string name="BLOB">GUMPALAN</string>
-    <string name="Clan_Pet_Uploads">Unggahan Skin Peliharaan Klan</string>
+    <string name="Clan_Pet_Uploads">Unggahan Skin Pet Klan</string>
     <string name="YT">YT</string>
     <string name="FREE_TODAY">GRATIS HARI INI!</string>
     <string name="Cannot_cancel_this_skin_yet_">Belum bisa membatalkan skin ini.</string>
@@ -891,9 +891,9 @@
     <string name="BANNED">DILARANG</string>
     <string name="CLAN_MEMBERS">ANGGOTA KLAN</string>
     <string name="CLAN_REQUESTS">PERSETUJUAN ANGGOTA</string>
-    <string name="Pet_1">Peliharaan 1</string>
-    <string name="Pet_2">Peliharaan 2</string>
-    <string name="Second_Pet">Anda dapat menggunakan 2 Peliharaan sekaligus!</string>
+    <string name="Pet_1">Pet 1</string>
+    <string name="Pet_2">Pet 2</string>
+    <string name="Second_Pet">Anda dapat menggunakan 2 Pet sekaligus!</string>
     <string name="This_item_requires">Item ini memerlukan </string>
     <string name="not_enough_plasma">Plasma tidak cukup.</string>
     <string name="MARK_UNREAD">TANDAI BELUM DIBACA</string>
@@ -1131,9 +1131,9 @@
     <string name="CHARGE_UP">MENGISI DAYA</string>
     <string name="CLAN_DESCRIPTION_COLOR">WARNA DESKRIPSI KLAN</string>
     <string name="Responsible_Pet_Owner">Pemilik Hewan Peliharaan yang Bertanggung Jawab</string>
-    <string name="Animal_Tamer">Penjinak Hewan</string>
+    <string name="Animal_Tamer">Pawang</string>
     <string name="Crocodile_Hunter">Pemburu Buaya</string>
-    <string name="Get_A_Pet_To_Level_X_">Naikkan Peliharaan ke level %d.</string>
+    <string name="Get_A_Pet_To_Level_X_">Naikkan Pet ke level %d.</string>
     <string name="plasma_boost_info">"Anda mendapatkan plasma tiga kali lipat dari semua sumber DALAM PERMAINAN saat ini aktif! Ini termasuk kemenangan arena dan turnamen! TIDAK berlaku pada pembelian plasma, roda putaran, atau hadiah khusus."</string>
     <string name="Plasma_Boost_7_Days_">Plasma Tambahan 7 Hari!</string>
     <string name="Plasma_Boost_1_Day_">Plasma Tambahan 1 Hari!</string>
